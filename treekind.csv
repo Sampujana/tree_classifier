@@ -1,0 +1,105 @@
+Sample No,Leaf Height[cm],Leaf Width[cm],Between Veins[cm][CENTER ONE ONLY],Midrip to venis angle[ANGLE][CENTER ONE ONLY],H/W ratio,Outcome
+1,14.9,6.6,1.71,68,10.75,Pride of india
+2,17.1,6.4,1.72,62,11.75,Pride of india
+3,16.4,7.3,1.23,75,11.85,Pride of india
+4,13.9,6.5,1.62,65,10.2,Pride of india
+5,16.9,6.3,1.12,69,11.6,Pride of india
+6,14.6,6.6,1.39,67,10.6,Pride of india
+7,17.1,6.7,1.49,67,11.9,Pride of india
+8,16.7,6.5,1.63,67,11.6,Pride of india
+9,17.6,6.6,1.99,65,12.1,Pride of india
+10,18.3,6.7,1.31,71,12.5,Pride of india
+11,15,6.7,1.72,69,10.85,Pride of india
+12,17.2,6.5,1.73,63,11.85,Pride of india
+13,16.5,7.4,1.24,76,11.95,Pride of india
+14,14,6.6,1.63,66,10.3,Pride of india
+15,17,6.4,1.13,70,11.7,Pride of india
+16,14.7,6.7,1.4,68,10.7,Pride of india
+17,17.2,6.8,1.5,68,12,Pride of india
+18,16.8,6.6,1.64,68,11.7,Pride of india
+19,17.7,6.7,1.88,66,12.2,Pride of india
+20,18.4,6.8,1.32,72,12.6,Pride of india
+21,14.8,6.5,1.73,70,10.65,Pride of india
+22,17,6.3,1.74,64,11.65,Pride of india
+23,16.3,7.2,1.25,77,11.75,Pride of india
+24,13.8,6.4,1.7,67,10.1,Pride of india
+25,16.8,6.2,1.71,61,11.5,Pride of india
+26,14.5,6.5,1.22,74,10.5,Pride of india
+27,17,6.6,1.61,64,11.8,Pride of india
+28,16.6,6.4,1.11,68,11.5,Pride of india
+29,17.5,6.5,1.38,66,12,Pride of india
+30,18.2,6.6,1.48,66,12.4,Pride of india
+31,14.9,6.6,1.62,66,10.75,Pride of india
+32,17.1,6.4,1.98,64,11.75,Pride of india
+33,16.4,7.3,1.3,70,11.85,Pride of india
+34,13.9,6.5,1.71,68,10.2,Pride of india
+1,14.4,5.3,0.91,67,9.85,terminalia arjuna
+2,12.6,5.5,0.92,68,9.05,terminalia arjuna
+3,13.5,5.4,0.89,74,9.45,terminalia arjuna
+4,11.9,4.9,0.69,76,8.4,terminalia arjuna
+5,11.5,4.2,1,63,7.85,terminalia arjuna
+6,8.9,4.4,0.11,56,6.65,terminalia arjuna
+7,11.8,4.4,0.91,66,8.1,terminalia arjuna
+8,12.3,4.7,1.1,72,8.5,terminalia arjuna
+9,13.1,5.5,1.2,65,9.3,terminalia arjuna
+10,15.3,5.3,0.9,73,10.3,terminalia arjuna
+11,14.5,5.4,0.92,68,9.95,terminalia arjuna
+12,12.7,5.6,0.93,69,9.15,terminalia arjuna
+13,13.6,5.5,0.9,75,9.55,terminalia arjuna
+14,12,5,0.7,77,8.5,terminalia arjuna
+15,11.6,4.3,1.01,64,7.95,terminalia arjuna
+16,9,4.5,0.12,57,6.75,terminalia arjuna
+17,11.9,4.5,0.92,67,8.2,terminalia arjuna
+18,12.4,4.8,1.11,73,8.6,terminalia arjuna
+19,13.2,5.6,1.21,66,9.4,terminalia arjuna
+20,15.4,5.4,0.91,74,10.4,terminalia arjuna
+21,14.6,5.5,0.93,69,10.05,terminalia arjuna
+22,12.8,5.7,0.94,70,9.25,terminalia arjuna
+23,13.7,5.6,0.91,76,9.65,terminalia arjuna
+24,14.3,5.1,0.9,78,9.7,terminalia arjuna
+25,12.5,5.4,0.91,65,8.95,terminalia arjuna
+26,13.4,5.3,0.88,58,9.35,terminalia arjuna
+27,11.8,4.8,0.68,68,8.3,terminalia arjuna
+28,11.4,4.1,0.99,74,7.75,terminalia arjuna
+29,8.8,4.3,0.1,67,6.55,terminalia arjuna
+30,11.7,4.3,0.9,75,8,terminalia arjuna
+31,12.2,4.6,1.09,70,8.4,terminalia arjuna
+32,13,5.4,1.19,71,9.2,terminalia arjuna
+33,15.2,5.2,0.89,77,10.2,terminalia arjuna
+34,14.4,5.3,0.91,79,9.85,terminalia arjuna
+35,12.6,5.5,0.92,66,9.05,terminalia arjuna
+1,11.8,4.2,0.71,49,8,canon ball tree
+2,13.4,4.6,1.69,58,9,canon ball tree
+3,13.5,5.3,0.91,62,9.4,canon ball tree
+4,11.8,5.2,0.81,58,8.5,canon ball tree
+5,12.6,4.3,0.82,49,8.45,canon ball tree
+6,12.1,4,0.49,50,8.05,canon ball tree
+7,12.6,4.2,0.79,54,8.4,canon ball tree
+8,10.2,3,0.51,50,6.6,canon ball tree
+9,9.1,3.1,0.42,49,6.1,canon ball tree
+10,10.8,3.5,0.71,54,7.15,canon ball tree
+11,11.9,4.3,0.72,50,8.1,canon ball tree
+12,13.5,4.7,1.7,59,9.1,canon ball tree
+13,13.6,5.4,0.92,63,9.5,canon ball tree
+14,11.9,5.3,0.82,59,8.6,canon ball tree
+15,12.7,4.4,0.83,50,8.55,canon ball tree
+16,12.2,4.1,0.5,51,8.15,canon ball tree
+17,12.7,4.3,0.8,55,8.5,canon ball tree
+18,10.3,3.1,0.52,51,6.7,canon ball tree
+19,9.2,3.2,0.43,50,6.2,canon ball tree
+20,10.9,3.6,0.72,55,7.25,canon ball tree
+21,12,4.4,0.73,51,8.2,canon ball tree
+22,13.6,4.8,1.71,60,9.2,canon ball tree
+23,13.7,5.5,0.93,64,9.6,canon ball tree
+24,12,5.4,0.7,48,8.7,canon ball tree
+25,11.7,4.1,1.68,57,7.9,canon ball tree
+26,13.3,4.5,0.9,61,8.9,canon ball tree
+27,13.4,5.2,0.8,57,9.3,canon ball tree
+28,11.7,5.1,0.81,48,8.4,canon ball tree
+29,12.5,4.2,0.48,49,8.35,canon ball tree
+30,12,3.9,0.78,53,7.95,canon ball tree
+31,12.5,4.1,0.5,49,8.3,canon ball tree
+32,10.1,2.9,0.41,48,6.5,canon ball tree
+33,9,3,0.7,53,6,canon ball tree
+34,10.7,3.4,0.71,49,7.05,canon ball tree
+35,11.8,4.2,1.69,58,8,canon ball tree
